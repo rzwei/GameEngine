@@ -1,5 +1,4 @@
 #pragma once
-//#include "IApplication.hpp"
 #include "IApplication.hpp"
 namespace My
 {
